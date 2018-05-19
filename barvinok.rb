@@ -5,6 +5,7 @@ class Barvinok < Formula
 
   depends_on "ntl"
   depends_on "isl"
+  depends_on "pkg-config"
 
   def install
     # should use --with-isl-prefix=...?
