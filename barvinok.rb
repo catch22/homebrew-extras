@@ -1,7 +1,7 @@
 class Barvinok < Formula
   homepage "http://barvinok.gforge.inria.fr"
-  url "http://barvinok.gforge.inria.fr/barvinok-0.41.tar.gz"
-  sha256 "b6aec6e6fd5b1574f5397cebb819c686f076a4a9d679ff023fe2999bc01054a5"
+  url "http://barvinok.gforge.inria.fr/barvinok-0.41.3.tar.gz"
+  sha256 "595c704e366488207de01434428658071f9e8a26ddb524a15106860140808b43"
 
   depends_on "ntl"
   depends_on "isl"
